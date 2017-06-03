@@ -4,7 +4,7 @@
 {
      addonSteamAppID         563560                                                                                     // 630 is the app ID for Alien Swarm
      addontitle              "Vietnamese translation"                                                                  // Add-on title that shows up in Add-ons list. ~20 chars max
-     addonversion            2.0                                                                                      // Version number of add-on version of the form <major>.<minor>
+     addonversion            2.2                                                                                      // Version number of add-on version of the form <major>.<minor>
      addontagline            "Vietnamese translation for AS:RD"	                                                     // Add-on tagline or wrap-up- a short description. ~100 chars max
      addonauthor             "max20091"                                                                             // Name/alias of the author
      addonSteamGroupName     ""                                               	                                   // (Optional) Steam group related to the add-on. We use this to construct a URL to the group page.
