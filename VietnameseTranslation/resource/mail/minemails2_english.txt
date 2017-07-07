@@ -2,10 +2,10 @@ GAME
 {
     // PDA belongs to Lt Cain
     
-	"MailFrom1"	"From: Laura Callen"
-	"MailDate1"	"Date: 12/24/52"
-	"MailSubject1"	"Subject: This is it"
-	"MailBody1A"	"Martial law?"
-	"MailBody1B"	"It's too late for that."
-	"MailBody1C"	"We need serious intervention, or we're going to lose this facility."
+	"MailFrom1"	"Từ: Laura Callen"
+	"MailDate1"	"Ngày: 12/24/52"
+	"MailSubject1"	"Tiêu đề: Điều gì đến cũng sẽ phải đến"
+	"MailBody1A"	"Giờ này còn lệnh giới nghiêm?"
+	"MailBody1B"	"Quá muộn rồi."
+	"MailBody1C"	"Chúng ta cần lắm 1 sự can thiệp nghiêm túc và sâu sắc, nếu ko có thể chúng ta sẽ mất chỗ này."
 }
