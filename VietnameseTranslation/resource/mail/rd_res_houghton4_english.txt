@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Eradication"
-"MailBody1A" "Interesting, it looks as though the infestation might go deeper than first thought."
-"MailBody1B" "According to information from Vereon XII, the swarm parasites like the damp."
-"MailBody1C" "The caves ahead could be crawling with them."
-"MailBody1D" "Houghton out."
+"MailFrom1" "Từ: Chỉ huy Houghton"
+"MailDate1" "Ngày: 12/30/52"
+"MailSubject1" "Tiêu đề: Hoạt động thanh trừng"
+"MailBody1A" "Khá thú vị, có vẻ như lũ bọ xâm nhập sâu hơn ta tưởng ban đầu."
+"MailBody1B" "Theo các thông tin có được từ Vereon XII, bọn kí sinh trùng Swarm khá ưa thích môi trường ẩm ướt. "
+"MailBody1C" "Có thể chúng đang bò lổm ngổm ở cái hang phía trước."
+"MailBody1D" "Houghton hết."
 } 

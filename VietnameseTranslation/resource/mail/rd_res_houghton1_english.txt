@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Eradication"
-"MailBody1A" "Listen up Alpha,"
-"MailBody1B" "The Research 7 Transport Facility recieved a shipment of alien specimens a week ago, and then the entire outpost went dark."
-"MailBody1C" "We suspect we may have a foothold situation at RC7, and whatever just took down your Albatross all but confirms that."
-"MailBody1D" "Head through the Transport Facility to RC7 and find out what's going on. Good luck, Alpha. Houghton out."
+"MailTừ1" "Từ: Chỉ huy Houghton"
+"MailNgày1" "Ngày: 12/30/52"
+"MailTiêu đề1" "Tiêu đề: Hoạt động thanh trừng"
+"MailBody1A" "Nghe đây Alpha,"
+"MailBody1B" "Phòng nghiên cứu vận chuyển số 7 đã nhận 1 đơn hàng chứa các mẫu vật của người ngoài hành tinh 1 tuần trước, và khiến toàn bộ tiền đồn này trở thành địa ngục. "
+"MailBody1C" "Chúng tôi nghi ngờ khả năng tình hình khả quan hơn ở RC7, hãy làm bất cứ điều gì để lấy tất cả đội Albatross và xác nhận điều này. "
+"MailBody1D" "Hãy đi qua Phòng vận chuyển để tới RC7, tìm hiểu xem chuyện gì đang xảy ra. Chúc may mắn, Alpha, Houghton hết."
 } 

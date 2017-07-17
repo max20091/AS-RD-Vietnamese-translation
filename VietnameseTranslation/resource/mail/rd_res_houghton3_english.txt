@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Eradication"
-"MailBody1A" "Good job, Alpha."
-"MailBody1B" "RC7 looks to be clear, but we're picking up biomass signals coming from the Jericho Mines North of your position."
-"MailBody1C" "There should be a maintenance hatch East of the purge computer. Head out there and through the forest."
-"MailBody1D" "Looks like the main threat is gone, but we need to ensure all hostiles are killed. Houghton out."
+"MailTừ1" "Từ: Chỉ huy Houghton"
+"MailNgày1" "Ngày: 12/30/52"
+"MailTiêu đề1" "Tiêu đề: Hoạt động thanh trừng"
+"MailBody1A" "Làm rất tốt, Alpha."
+"MailBody1B" "RC7 có vẻ đã sạch sẽ, nhưng chúng tôi đang nhận được 1 tín hiệu biomass từ mỏ Jericho, hướng bắc từ vị trí của các cậu."
+"MailBody1C" "Có 1 phòng ấp trứng ở phía Đông, từ phòng thanh lọc. Băng qua khu rừng và tiến tới chỗ đấy ngay. "
+"MailBody1D" "Mối hiểm họa lớn nhất có vẻ đã qua, nhưng chúng ta vẫn cần đảm bảo tất cả bọn chúng đã bị diệt. Houghton hết."
 } 

@@ -1,11 +1,11 @@
 GAME
 {
 
-"MailFrom1" "From: Commander Houghton"
-"MailDate1" "Date: 12/30/52"
-"MailSubject1" "Subject: Operation Eradication"
-"MailBody1A" "Alpha, this doesn't look good."
-"MailBody1B" "RC7 is definately compromised, any scientists or soldiers still alive below are beyond help."
-"MailBody1C" "There's a purge facility nearby which will fill all of the lower levels of RC7 with a deadly neurotoxin."
-"MailBody1D" "It'll kill or drive out the aliens. It's with regret that I task you with activating the purge. Houghton out."
+"MailTừ1" "Từ: Chỉ huy Houghton"
+"MailNgày1" "Ngày: 12/30/52"
+"MailTiêu đề1" "Tiêu đề: Hoạt động thanh trừng"
+"MailBody1A" "Alpha, không ổn rồi."
+"MailBody1B" "RC7 chắc chắn đã bị thỏa hiệp, bất cứ ai còn sống dưới đấy, dù là lính hay nhà khoa học đều nằm ngoài sự giúp đỡ rồi. "
+"MailBody1C" "Một cơ sở thanh lọc gần đấy sẽ phun một chất độc thần kinh chết người vào toàn bộ các tầng của RC7."
+"MailBody1D" "Nó sẽ giết chết lũ người ngoài hành tình hoặc lùa chúng ra ngoài. Tôi rất tiếc vì đẩy cho cậu việc kích hoạt việc phun chất độc. Houghton hết."
 } 
