@@ -1,11 +1,11 @@
 GAME
 {
     // spam
-	"MailFrom1" "From: John Doe"
-	"MailSubject1"	"WAKE UP!!!"
-	"MailDate1"	"Date: 12/25/52"
-	"MailBody1A"	"Hello free people,"
-	"MailBody1B"	"Before I came to People's Law, I slaved underground for SynTek on some dirtclod in the Outer Rim.  We never questioned the hours, or checked the labor laws; hell, we didn't even know such laws existed.  We were too tired to ask the right questions, and too worried about losing our jobs.  You know if you quit, they're under no obligation to get you off the rock...or to house and feed you.  It's even worse if you're fired."
-	"MailBody1C"	"But six months ago I stumbled across People's Law.  They informed me of my rights and helped me get out of my contract with SynTek.  They got me a transfer back to the Core Systems, where we all belong.  Hey:  Even when you know you're doing the right thing, it's still damn scary doing it.  But it's a lot less frightening with People's Law working by your side. You've got nothing to lose but your fear of making a move.  Contact (+2369992634980)"
-	"MailBody1D"	"Disclaimer:  People's Law breakaway deals are fully binding and non-refundable under IA law.  Working conditions of replacement placement cannot be guaranteed."
+	"MailFrom1" "Từ: John Doe"
+	"MailSubject1"	"Tỉnh lại đi!!!"
+	"MailDate1"	"Ngày: 12/25/52"
+	"MailBody1A"	"Xin chào những thanh niên tự do"
+	"MailBody1B"	"Trước khi tới được với bộ luật Con người, tôi đã làm việc quần quật cho Syntek với tiền công rẻ mạt ở Outer Rim. Chúng tôi không hề hỏi về thời gian làm việc, về luật lao động, mẹ kiếp, tôi còn méo biết cái luật này tồn tại trên đời. Chúng tôi quá mệt để hỏi han cũng như quá sợ mất việc.  Nếu bỏ việc, họ sẽ không có nghĩa vụ phải lo nhà cửa, đồ ăn cho chúng tôi. Bị đuổi việc thì còn tồi tệ hơn nhiều. "
+	"MailBody1C"	"Nhưng 6 tháng trước, tôi đã bập vào cái bộ luật Con người. Nó nói cho tôi biết về quyền của tôi và giúp tôi hủy hợp đồng với SynTek. Họ thuyên chuyển tôi về Core Systems, nơi chúng tôi thuộc về. Kể cả khi tôi biết là tôi đang đi đúng đường, tôi vẫn lo chết mẹ. Nó sẽ bớt đi rất nhiều nếu có người của bên luật bên cạnh. Bạn sẽ chẳng có gì để mất ngoại trừ nỗi sợ về việc thay đổi. Hãy liên hệ số (+2369992634980)"
+	"MailBody1D"	"Điều khoản ràng buộc: Các thỏa thuận trong bộ luật Con người có hiệu lực tối cao và không hoàn lại theo luật của IA. Luật không đảm bảo sẽ có điều kiện làm việc mới hoặc thay đổi nơi là việc."
 }

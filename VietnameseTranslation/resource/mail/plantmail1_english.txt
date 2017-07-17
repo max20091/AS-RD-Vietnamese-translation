@@ -4,16 +4,16 @@ GAME
     
     // inbox
     
-	"MailFrom1"	"From: John Cain"
-	"MailDate1"	"Date: 12/20/52"
-	"MailSubject1"	"Subject: Delivery to Research Station 7"
+	"MailFrom1"	"Từ: John Cain"
+	"MailDate1"	"Ngày: 12/20/52"
+	"MailSubject1"	"Tiêu Đề: Chuyển phát tới Trạm Nghiên cứu số 7"
 	"MailBody1A"	"Mr. Ming,"
-	"MailBody1B"	"IA agent L. Callen has discovered our shipment.  It also looks like some of the specimens are loose.  I'll take care of it, but she might come asking you and your staff some pointed questions.  I recommend you devise some good answers in advance.  Get your story straight."
+	"MailBody1B"	"Đặc vụ IA - L. Callen đã phát hiện ra gói hàng của chúng ta. Một số mẫu vật trong thùng hàng bị lỏng. Tôi sẽ để ý mấy vấn đề này nhưng cô ta có thể sẽ tới vặn vẹo ông cũng như người của ông một vài câu. Ông nên chuẩn bị trước câu trả lời cho hợp lý làm sao để cho câu chuyện nó thực tế nhất."
 	"MailBody1C"	"Lt. Cain, SynTek Security."
 
-	"MailFrom2"	"From: Friend"
-	"MailSubject2"	"Subject: Re: Employment Opportunity"
-	"MailDate2"	"Date: 12/18/53"
-	"MailBody2A"	"Paradise Found!"
-	"MailBody2B"	"Tired of the daily grind?  Cramped living conditions, no food, medicine or clean air to breathe?  Join the Colony Placement Program (CPP) to find a better life among the stars!  Member partners include SynTek Megacorporation, United Industries and Frontier Pharmaceuticals.  Guaranteed placement, no matter your profile or credit rating!  Find your paradise today! (TM)"
+	"MailFrom2"	"Từ: Friend"
+	"MailSubject2"	"Tiêu Đề: Re: Cơ hội việc làm"
+	"MailDate2"	"Ngày: 12/18/53"
+	"MailBody2A"	"Thiên đường là đây!"
+	"MailBody2B"	"Quá mệt mỏi vì những công việc hàng ngày? nơi ở thì chật chội, đồ ăn, thuốc men thiếu thốn, không khí sạch cũng không có để thở? Hãy gia nhập chương trình Colony Placement Program (CPP) để có một cuộc sống tốt đẹp hơn giữa, cùng với những "minh tinh màn bạc"! Các đối tác bao gồm SynTek Megacorporation, United Industries và Frontier Pharmaceuticals. Đảm bảo 1 suất ở cho bạn mà không yêu cầu hồ sơ hay xếp hạng tín dụng! Tới thiên đường ngay hôm này! (TM)"
 }
