@@ -2,11 +2,11 @@ GAME
 {
     // PDA belongs to Helen Young
     
-	"MailFrom1"	"From: Brian Howe"
-	"MailDate1"	"Date: 12/24/52"
-	"MailSubject1"	"Subject: Warhead"
-	"MailBody1A"	"Helen, for God's sake, answer me!  Please!  Dave and Tom are dead.  We couldn't get the warhead into that tunnel.  I'm hiding for now, but staying here is not an option."
-	"MailBody1B"	"I just hope you're all right.  There are so many things I wish I'd said to you.  Just never seemed like the right time.  And now...everything's wrong."
-	"MailBody1C"	"I love you."
+	"MailFrom1"	"Từ: Brian Howe"
+	"MailDate1"	"Ngày: 12/24/52"
+	"MailSubject1"	"Tiêu đề: Đầu đạn hạt nhân"
+	"MailBody1A"	"Helen, vì chúa lòng lành, trả lời anh ngay. Anh xin đấy. Dave và Tom đã chết rồi. Mọi người ko thể lấy được cái đầu đạn trong đường hầm. Anh đang ẩn nấp, nhưng việc ở lại đây là lựa chọn khá tồi. "
+	"MailBody1B"	"Anh hy vọng em vẫn ổn. Có rất nhiều thứ anh muốn nói với em. Nhưng chưa bao giờ có cơ hội. Và giờ đây...mọi thứ đều đang rất tệ. "
+	"MailBody1C"	"Anh yêu em."
 	"MailBody1D"	"Brian"
 }
